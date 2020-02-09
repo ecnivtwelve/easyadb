@@ -9,3 +9,6 @@ That amazing interface appears, you just have to enter numbers !
 
 ## More screenshots
 ![Interface](https://i.ibb.co/2dJCPjW/cmd-b-Es-S9q-M5-Wq.png "Interface")
+
+## Other info
+**I DO NOT OWN ADB AND FASTBOOT.**
